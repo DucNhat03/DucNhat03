@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]([https://myoctocat.com/assets/images/base-octocat.svg](https://file.hstatic.net/200000455983/article/y-nghia-hoa-huong-duong_f7dd8dd0932042539493d34c7764c2ab.png))
 <!--
 **DucNhat03/DucNhat03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
