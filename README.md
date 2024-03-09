@@ -1,4 +1,4 @@
-!(https://github.com/DucNhat03/DucNhat03/assets/94598007/7806d835-a43e-4531-bf16-d8b454597f90)
+![(https://github.com/DucNhat03/DucNhat03/assets/94598007/7806d835-a43e-4531-bf16-d8b454597f90)]
 <!--
 **DucNhat03/DucNhat03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
