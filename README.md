@@ -1,105 +1,50 @@
-# 💫 About Me
+<div align="center">
 
-🌱 Hi 👋, I'm **Nguyen Duc Nhat**  
-🎓 I'm currently a student at **IUH - Industrial University of Ho Chi Minh City**  
-💻 Passionate about coding, problem-solving, and building meaningful tech products.
+# Nguyen Duc Nhat
 
----
+**Software Engineer · Frontend Developer**
 
-## 🎯 Career Objective
+### Building software that makes complex things simple.
 
-🚀 As a passionate and continuously learning developer, my career objective is to become a **professional full-stack developer** with strong problem-solving skills and a solid understanding of **system architecture**.  
-👨‍💻 I aim to work in a dynamic environment where I can contribute to real-world projects, continuously improve my skills, and eventually take part in building high-impact, scalable software systems.
+Web applications · Backend services · Windows desktop software
 
-> _"Always eager to learn – always ready to code."_
+[Portfolio](https://nguyenducnhat.id.vn) · [LinkedIn](https://www.linkedin.com/in/ducnhatdev/) · [Email](mailto:ducnhat0910@gmail.com)
 
----
-
-## 🖼️ My Work Preview
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/dff0a23e-9ed3-4e81-bfac-4b7fd5ee077f" width="100%" />
-</p>
+</div>
 
 ---
 
-# 💻 Tech Stack
+## About
 
-### 🧠 Languages  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+I'm a Frontend Developer at **GEEK Up**, based in Ho Chi Minh City, Vietnam. I build and maintain software across web and desktop environments, and contribute to backend services and data-oriented workflows.
 
----
+My work includes React and Next.js interfaces, backend functionality in Go, internal data visualization tools using PHP, and maintenance and modernization of C#/.NET Windows applications. I started with React development on internal products and have since worked across different platforms and existing codebases.
 
-### 🌐 Frontend  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+I value clear requirements, maintainable code, and changes that can be verified against existing behavior.
 
----
+## Technical focus
 
-### 📱 Mobile  
-![React Native](https://img.shields.io/badge/react%20native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Expo](https://img.shields.io/badge/expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+| Area | Technologies |
+| --- | --- |
+| **Languages** | TypeScript, JavaScript, Go, PHP, C#, Python |
+| **Frontend** | React, Next.js, Tailwind CSS, Refine |
+| **Backend & desktop** | Go, PHP, .NET, WinUI 3, REST APIs |
+| **Data & tools** | PostgreSQL, Supabase, Git, Docker, Vercel |
 
----
+## Selected projects
 
-### 🧩 Backend  
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+### [Roomie 201 — Shared Living Finance](https://roomie-201.vercel.app)
 
----
+A **responsive web application** for roommates to manage shared expenses, balances, and repayments on desktop and mobile browsers. Built with Next.js, TypeScript, Supabase, and PostgreSQL.
 
-### 🛢️ Database  
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+### [Developer Portfolio & CMS](https://nguyenducnhat.id.vn)
+
+A personal portfolio with Git-backed content management. Built with Next.js, TypeScript, and Keystatic to keep project and professional information separate from presentation code.
+
+### DN Tasker — NAVER Vietnam AI Hackathon 2025
+
+A responsive task-management prototype with task planning, calendar views, progress visualization, and spreadsheet export, built with React and TypeScript.
 
 ---
 
-### ☁️ Cloud & DevOps  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Lambda](https://img.shields.io/badge/aws%20lambda-%23FF9900.svg?style=for-the-badge&logo=aws-lambda&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/amazon%20dynamodb-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-![S3](https://img.shields.io/badge/Amazon%20S3-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-### 🛠️ Tools  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-F26635?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DucNhat03&theme=vue-dark&hide_border=false" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DucNhat03&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-
----
-
-### ✍️ Dev Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</p>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=DucNhat03&icon=10&color=13)](https://visitcount.itsvg.in)
+<sub>For professional experience and more project details, visit my [portfolio](https://nguyenducnhat.id.vn).</sub>
